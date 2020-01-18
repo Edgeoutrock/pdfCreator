@@ -10,5 +10,5 @@ it is important to run "npm install" in git bash for the node modules. the remai
 
 ![](finalPDF.gif)
 
-/* the link is not important */
+
 https://edgeoutrock.github.io/pdfCreator/
